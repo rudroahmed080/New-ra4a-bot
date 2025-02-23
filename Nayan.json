@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "Ru-bot",
+  "PREFIX": "-",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100033670741301",
+    "61571904047861"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "61571904047861",
+    "100033670741301"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
